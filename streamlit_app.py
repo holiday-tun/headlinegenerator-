@@ -9,7 +9,7 @@ import requests
 
 import streamlit as st
 
-openai.api_key="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"
+openai.api_key="sk-PghLUnl
 
 def generate_headline(input_text):
 
